@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290780472967",
+    "project_id": "thegigsearchauth",
+    "storage_bucket": "thegigsearchauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290780472967:android:c59a98c54975154170ba22",
+        "android_client_info": {
+          "package_name": "com.thegigsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290780472967-pq5esigs53hhg50rtaqh2olkjrmiop63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQgd5B8k8YDcj6vbDzf3myrJ7OniyTzKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290780472967-pq5esigs53hhg50rtaqh2olkjrmiop63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
